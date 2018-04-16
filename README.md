@@ -1,6 +1,6 @@
 # Memeit.LOL Images Repo
 
-This repo stores the memes we use on steemit.lol
+This repo stores the memes we use on memeit.lol
 
 # Add Images
 
